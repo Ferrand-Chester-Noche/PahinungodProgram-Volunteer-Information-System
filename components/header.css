@@ -1,6 +1,6 @@
 /* Header.css */
 .header {
-    background-color: #ffe661;
+    background-color: #9cfcff;
     position: fixed;
     top: 0px;
     left: 0px;
@@ -30,6 +30,7 @@
     background-color: maroon;
     color: white;
     border-color: maroon;
+    border-style: solid;
     height: auto;
     border-radius: 20px;
     padding: 5px 10px;
